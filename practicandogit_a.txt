@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esta es una nueva linea local por marina
+=======
+esto es una nueba línea remota de Claudia
+>>>>>>> be7e86bc3cc7d686f4f22ea8cf96120b65207a5c
