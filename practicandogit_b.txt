@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Esto es una nueva línea local de Claudia
-=======
-esta es una nueva linea remota de marina
->>>>>>> 543e7ec3e07852e9fb1bc9d3660975c23f3650f2
+Esto es una nueva línea remota de marina
